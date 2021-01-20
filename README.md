@@ -1,5 +1,5 @@
 # Self-watering-plant
-Created at self watering plant project event hosted by OfferZen. Hopefully my basils will grow happily :)
+Created at self watering plant on the project event hosted by OfferZen. Hopefully my basils will grow happily :)
 
 # End result
 ![end result](photo.jpg)
